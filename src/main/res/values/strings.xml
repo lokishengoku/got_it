@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Got it</string>
+    <string name="solve">Solve</string>
+    <string name="recognize">Recognize</string>
+    <string name="recognizeimage">recognizeImage</string>
+    <string name="your_result_here">Your result here...</string>
 </resources>
